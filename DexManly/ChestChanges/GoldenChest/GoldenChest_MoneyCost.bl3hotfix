@@ -15,4 +15,4 @@
 
 SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,ActionText,0,,Use Money ([cashicon]%i)
 SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,CurrencyType,0,,/Game/Gear/_Shared/_Design/InventoryCategories/InventoryCategory_Money
-SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,Cost.BaseValueConstant,0,,1000000.0
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,Cost.BaseValueConstant,0,,10000.0
